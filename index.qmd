@@ -1,0 +1,35 @@
+---
+title: "Vivian Du"
+image: images/profile.png
+toc: false
+about: 
+  template: trestles
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/vivian-du-7b0064293/
+    - icon: github
+      text: GitHub
+      href: https://github.com/vivianyxdu
+    - icon: envelope
+      text: Email
+      href: mailto:duv@carleton.edu
+---
+
+::: {#intro-heading}
+Hi, thanks for visiting Vivian's wesbite! 
+
+## Education
+
+**Carleton College** | Northfield, MN | B.A. in Statistics and Sociology/Anthropology | 2023-2027 *(expected)*
+
+## Experience
+
+This summer I am participating in the [Carnegie Mellon Sports Analytics Camp (CMSACamp)](https://www.cmu.edu/dietrich/statistics-datascience/engagement/summer/cmsa-camp.html).
+
+<br>
+:::
+
+### About me
+
+![](images/logo.png)

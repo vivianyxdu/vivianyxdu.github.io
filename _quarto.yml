@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Vivian Du"
+  favicon: images/logo.png
+  navbar:
+    logo: images/logo.png
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme:
+      light: [yeti, custom.scss]
+      dark: solar
+    toc: true
+    page-layout: full
+
+
+
