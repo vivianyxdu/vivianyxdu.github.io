@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "project1\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/project1.html",
+    "href": "projects/project1.html",
+    "title": "project1",
+    "section": "",
+    "text": "hello!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Vivian Du",
+    "section": "",
+    "text": "Hi, thanks for visiting Vivian’s wesbite!\n\n\nCarleton College | Northfield, MN | B.A. in Statistics and Sociology/Anthropology | 2023-2027 (expected)\n\n\n\nThis summer I am participating in the Carnegie Mellon Sports Analytics Camp (CMSACamp)."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Vivian Du",
+    "section": "",
+    "text": "Carleton College | Northfield, MN | B.A. in Statistics and Sociology/Anthropology | 2023-2027 (expected)"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Vivian Du",
+    "section": "",
+    "text": "This summer I am participating in the Carnegie Mellon Sports Analytics Camp (CMSACamp)."
+  }
+]
